@@ -1,5 +1,4 @@
-# Terraform Azure VM Configuration - AI Agent Instructions
-
+# Terraform Azure VM Configuration 
 ## Project Overview
 This Terraform configuration provisions a Windows Virtual Machine on Azure with networking infrastructure. The setup demonstrates IaC patterns for Azure resources including VNets, subnets, network interfaces, and security groups.
 
